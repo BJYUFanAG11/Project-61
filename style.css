@@ -1,0 +1,54 @@
+body {
+background-color:#0097A7;
+text-align: center;
+background: linear-gardient (E1BEE7 0%,#90CAF9 100%)
+background-repeat: no-repeat;
+}
+
+img {
+border-radius:50%;
+width:100px;
+height:150px;
+}
+
+h1 {
+text-shadow: 2px 2px #F8BBD0
+font-size:20px;
+font-family: bold;
+}
+
+p {
+font-size:18px;
+color: #6A1B9A
+}
+
+.menu{
+list-style:none;
+font-family:cursive;
+float:right;
+top: 10px;
+right: 30px;
+cursor:pointer;
+color:green;
+}
+
+#myname{
+  font-family: 'Courgette', cursive;
+  }
+
+html {
+scroll-behavior: smooth;
+}
+
+img {
+transition: transform .2s;
+border: 10px solid #AAAAAA;    
+}
+
+img:hover {
+transform: scale(0.9);+
+}
+
+a {
+!important
+}
